@@ -1,0 +1,14 @@
+title: NextRep — Documentos Legais
+description: Política de Privacidade e Termos de Uso do NextRep
+theme: jekyll-theme-minimal
+markdown: kramdown
+url: "https://brunobigato.github.io"
+baseurl: "/nextrep-docs"
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - privacy.md
+  - terms.md

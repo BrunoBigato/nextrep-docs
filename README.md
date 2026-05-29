@@ -1,0 +1,16 @@
+# NextRep — Documentos Legais
+
+Repositório público com os documentos legais do aplicativo **NextRep**.
+
+Servido via GitHub Pages em:
+
+- 🔒 [Política de Privacidade](https://brunobigato.github.io/nextrep-docs/privacy)
+- 📜 [Termos de Uso](https://brunobigato.github.io/nextrep-docs/terms)
+
+## Contato
+
+E-mail: [admin@nextprep.com](mailto:admin@nextprep.com)
+
+---
+
+Este repositório contém apenas documentos legais públicos. O código-fonte do aplicativo NextRep é privado.
