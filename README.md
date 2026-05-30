@@ -9,7 +9,7 @@ Servido via GitHub Pages em:
 
 ## Contato
 
-E-mail: [admin@nextprep.com](mailto:admin@nextprep.com)
+E-mail: [admin@nextrep.com](mailto:admin@nextrep.com)
 
 ---
 

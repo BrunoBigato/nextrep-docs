@@ -14,4 +14,4 @@ Sistema de progressão de carga para treino sério.
 
 ## Contato
 
-- E-mail: [admin@nextprep.com](mailto:admin@nextprep.com)
+- E-mail: [admin@nextrep.com](mailto:admin@nextrep.com)

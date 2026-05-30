@@ -18,7 +18,7 @@ Ao usar o NextRep, você concorda com as práticas descritas neste documento.
 O controlador responsável pelo tratamento dos seus dados pessoais é:
 
 - **Bruno Patrocínio** (Pessoa Física)
-- E-mail de contato (LGPD/DPO): **admin@nextprep.com**
+- E-mail de contato (LGPD/DPO): **admin@nextrep.com**
 
 ---
 
@@ -117,7 +117,7 @@ Você tem o direito de, a qualquer momento:
 
 ### Como exercer
 - **Excluir conta**: dentro do app, em *Configurações → Excluir conta* (deleta toda sua conta e dados em até 30 dias).
-- **Demais direitos**: envie um e-mail para **admin@nextprep.com** com o assunto "LGPD — [seu pedido]". Respondemos em até 15 dias úteis.
+- **Demais direitos**: envie um e-mail para **admin@nextrep.com** com o assunto "LGPD — [seu pedido]". Respondemos em até 15 dias úteis.
 
 ---
 
@@ -146,7 +146,7 @@ Apesar dos cuidados, nenhum sistema é 100% imune. Em caso de incidente de segur
 
 ## 9. Crianças e adolescentes
 
-O NextRep não é destinado a menores de **13 anos**. Não coletamos intencionalmente dados de crianças. Se você é responsável legal e identificou cadastro indevido, entre em contato em **admin@nextprep.com** para remoção imediata.
+O NextRep não é destinado a menores de **13 anos**. Não coletamos intencionalmente dados de crianças. Se você é responsável legal e identificou cadastro indevido, entre em contato em **admin@nextrep.com** para remoção imediata.
 
 ---
 
@@ -166,7 +166,7 @@ Esta política pode ser atualizada periodicamente. Mudanças relevantes serão c
 
 Dúvidas, reclamações ou solicitações relacionadas a privacidade:
 
-**E-mail**: admin@nextprep.com
+**E-mail**: admin@nextrep.com
 **Assunto sugerido**: "LGPD — [descrição]"
 
 ---

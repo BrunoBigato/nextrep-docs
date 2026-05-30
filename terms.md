@@ -17,7 +17,7 @@ NextRep é um aplicativo móvel de **controle de progressão de carga** voltado 
 
 O serviço é oferecido por **Bruno Patrocínio** (Pessoa Física), localizado no Brasil.
 
-**Contato**: admin@nextprep.com
+**Contato**: admin@nextrep.com
 
 ---
 
@@ -29,7 +29,7 @@ Para acessar todas as funcionalidades, você precisa criar uma conta com e-mail 
 ### 2.2 Responsabilidade
 - Você é responsável por manter a confidencialidade da sua senha.
 - Toda atividade na sua conta é considerada feita por você.
-- Em caso de uso indevido suspeito, comunique imediatamente em admin@nextprep.com.
+- Em caso de uso indevido suspeito, comunique imediatamente em admin@nextrep.com.
 
 ### 2.3 Modo Convidado
 O NextRep permite uso sem cadastro ("modo convidado"). Nesse modo:
@@ -164,7 +164,7 @@ Fica eleito o **foro da Comarca de domicílio do consumidor**, conforme o Códig
 
 Dúvidas, reclamações ou solicitações relacionadas a estes Termos:
 
-**E-mail**: admin@nextprep.com
+**E-mail**: admin@nextrep.com
 
 ---
 
