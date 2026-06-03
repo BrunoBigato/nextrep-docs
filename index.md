@@ -1,9 +1,9 @@
 ---
 layout: default
-title: NextRep
+title: RankForge
 ---
 
-# NextRep
+# RankForge
 
 Sistema de progressão de carga para treino sério.
 

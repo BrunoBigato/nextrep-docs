@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Política de Privacidade — NextRep
+title: Política de Privacidade — RankForge
 ---
 
 # Política de Privacidade
 
 **Última atualização: 28 de maio de 2026**
 
-Esta Política de Privacidade descreve como o aplicativo **NextRep** ("NextRep", "nós", "nosso") coleta, usa, armazena e compartilha informações pessoais dos usuários ("você"), em conformidade com a **Lei Geral de Proteção de Dados Pessoais (LGPD — Lei nº 13.709/2018)**.
+Esta Política de Privacidade descreve como o aplicativo **RankForge** ("RankForge", "nós", "nosso") coleta, usa, armazena e compartilha informações pessoais dos usuários ("você"), em conformidade com a **Lei Geral de Proteção de Dados Pessoais (LGPD — Lei nº 13.709/2018)**.
 
-Ao usar o NextRep, você concorda com as práticas descritas neste documento.
+Ao usar o RankForge, você concorda com as práticas descritas neste documento.
 
 ---
 
@@ -98,7 +98,7 @@ Compartilhamos dados estritamente necessários com os seguintes operadores:
 **Não vendemos, alugamos ou cedemos seus dados** para qualquer outra empresa.
 
 ### 5.1 Transferência internacional
-Alguns operadores acima armazenam dados fora do Brasil. Você consente expressamente com essa transferência ao usar o NextRep, conforme Art. 33 da LGPD. Todos os operadores listados possuem políticas próprias de proteção compatíveis com a LGPD ou GDPR.
+Alguns operadores acima armazenam dados fora do Brasil. Você consente expressamente com essa transferência ao usar o RankForge, conforme Art. 33 da LGPD. Todos os operadores listados possuem políticas próprias de proteção compatíveis com a LGPD ou GDPR.
 
 ---
 
@@ -146,13 +146,13 @@ Apesar dos cuidados, nenhum sistema é 100% imune. Em caso de incidente de segur
 
 ## 9. Crianças e adolescentes
 
-O NextRep não é destinado a menores de **13 anos**. Não coletamos intencionalmente dados de crianças. Se você é responsável legal e identificou cadastro indevido, entre em contato em **admin@nextrep.com** para remoção imediata.
+O RankForge não é destinado a menores de **13 anos**. Não coletamos intencionalmente dados de crianças. Se você é responsável legal e identificou cadastro indevido, entre em contato em **admin@nextrep.com** para remoção imediata.
 
 ---
 
 ## 10. Cookies e rastreadores
 
-O NextRep é um aplicativo móvel e **não utiliza cookies de navegador**. Não usamos pixels de rastreamento, fingerprinting ou ferramentas de publicidade comportamental.
+O RankForge é um aplicativo móvel e **não utiliza cookies de navegador**. Não usamos pixels de rastreamento, fingerprinting ou ferramentas de publicidade comportamental.
 
 ---
 

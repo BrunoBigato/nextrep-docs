@@ -1,6 +1,6 @@
-# NextRep — Documentos Legais
+# RankForge — Documentos Legais
 
-Repositório público com os documentos legais do aplicativo **NextRep**.
+Repositório público com os documentos legais do aplicativo **RankForge**.
 
 Servido via GitHub Pages em:
 
@@ -13,4 +13,4 @@ E-mail: [admin@nextrep.com](mailto:admin@nextrep.com)
 
 ---
 
-Este repositório contém apenas documentos legais públicos. O código-fonte do aplicativo NextRep é privado.
+Este repositório contém apenas documentos legais públicos. O código-fonte do aplicativo RankForge é privado.

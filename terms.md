@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Termos de Uso — NextRep
+title: Termos de Uso — RankForge
 ---
 
 # Termos de Uso
 
 **Última atualização: 28 de maio de 2026**
 
-Bem-vindo ao **NextRep**. Ao baixar, instalar ou usar o aplicativo, você concorda integralmente com estes Termos de Uso ("Termos"). Se não concordar, por favor não utilize o app.
+Bem-vindo ao **RankForge**. Ao baixar, instalar ou usar o aplicativo, você concorda integralmente com estes Termos de Uso ("Termos"). Se não concordar, por favor não utilize o app.
 
 ---
 
 ## 1. Sobre o serviço
 
-NextRep é um aplicativo móvel de **controle de progressão de carga** voltado a praticantes de musculação que treinam com metodologia estruturada (cargas, séries, métodos avançados, ciclos).
+RankForge é um aplicativo móvel de **controle de progressão de carga** voltado a praticantes de musculação que treinam com metodologia estruturada (cargas, séries, métodos avançados, ciclos).
 
 O serviço é oferecido por **Bruno Patrocínio** (Pessoa Física), localizado no Brasil.
 
@@ -32,14 +32,14 @@ Para acessar todas as funcionalidades, você precisa criar uma conta com e-mail 
 - Em caso de uso indevido suspeito, comunique imediatamente em admin@nextrep.com.
 
 ### 2.3 Modo Convidado
-O NextRep permite uso sem cadastro ("modo convidado"). Nesse modo:
+O RankForge permite uso sem cadastro ("modo convidado"). Nesse modo:
 - Todos os dados ficam **apenas no dispositivo**.
 - Não há sincronização ou backup em nuvem.
 - Se o app for desinstalado ou o dispositivo perdido, os dados são perdidos.
 
 ---
 
-## 3. Assinatura NextRep Pro
+## 3. Assinatura RankForge Pro
 
 ### 3.1 Planos disponíveis
 - **Pro Mensal**: R$ 19,90/mês
@@ -51,7 +51,7 @@ Novos assinantes recebem **7 dias gratuitos** para experimentar o Pro. Ao final 
 ### 3.3 Renovação automática
 - Assinaturas renovam-se automaticamente ao final de cada ciclo (mensal ou anual).
 - A cobrança é processada pelo **Google Play**, conforme método de pagamento cadastrado na sua conta Google.
-- Você pode cancelar a qualquer momento através de *Google Play → Assinaturas → NextRep*.
+- Você pode cancelar a qualquer momento através de *Google Play → Assinaturas → RankForge*.
 
 ### 3.4 Cancelamento e reembolso
 - O cancelamento entra em vigor ao final do período pago corrente — você continua com acesso Pro até a data de expiração.
@@ -84,7 +84,7 @@ Violações podem resultar em **suspensão imediata da conta** sem direito a ree
 Você mantém todos os direitos sobre o conteúdo que cria no app (planos de treino, anotações, PDFs importados).
 
 ### 5.2 Licença de uso técnico
-Você concede ao NextRep uma licença limitada, não exclusiva e gratuita para armazenar, processar e exibir seu conteúdo **estritamente para operar o serviço** (ex: sincronização, exibição na tela, cálculo de progressão).
+Você concede ao RankForge uma licença limitada, não exclusiva e gratuita para armazenar, processar e exibir seu conteúdo **estritamente para operar o serviço** (ex: sincronização, exibição na tela, cálculo de progressão).
 
 ### 5.3 PDF Import (System Scan)
 Ao importar um PDF, você declara:
@@ -95,14 +95,14 @@ Ao importar um PDF, você declara:
 
 ## 6. Propriedade intelectual
 
-- O nome **NextRep**, logotipo, design, código-fonte do app e todo material gerado por nós são protegidos por leis de propriedade intelectual.
+- O nome **RankForge**, logotipo, design, código-fonte do app e todo material gerado por nós são protegidos por leis de propriedade intelectual.
 - Você recebe uma **licença pessoal, intransferível e revogável** para usar o app, sem direito a sublicenciar ou redistribuir.
 
 ---
 
 ## 7. Disclaimer de saúde
 
-> **ATENÇÃO**: O NextRep é uma ferramenta de **registro e progressão de treinos** e **NÃO substitui orientação profissional**.
+> **ATENÇÃO**: O RankForge é uma ferramenta de **registro e progressão de treinos** e **NÃO substitui orientação profissional**.
 
 - O app **não é dispositivo médico** e não emite diagnósticos.
 - Sugestões de carga, séries ou métodos são **referências baseadas em dados que você inseriu** — não constituem prescrição.
@@ -116,7 +116,7 @@ Ao importar um PDF, você declara:
 
 Na máxima extensão permitida pela lei brasileira:
 
-- O NextRep é fornecido **"como está"** ("as is"), sem garantias expressas ou implícitas.
+- O RankForge é fornecido **"como está"** ("as is"), sem garantias expressas ou implícitas.
 - Não garantimos disponibilidade ininterrupta, ausência de erros ou compatibilidade com todos os dispositivos.
 - Não nos responsabilizamos por:
   - Perda de dados decorrente de exclusão da conta, falha do dispositivo, ou não-sincronização em modo convidado.
@@ -142,7 +142,7 @@ Podemos suspender ou encerrar sua conta sem aviso prévio se:
 Em caso de encerramento por descumprimento, **não há reembolso** de valores pagos.
 
 ### 9.3 Descontinuação do serviço
-Reservamo-nos o direito de descontinuar o NextRep, com aviso prévio de **30 dias**. Nesse caso, ofereceremos exportação de dados em formato CSV.
+Reservamo-nos o direito de descontinuar o RankForge, com aviso prévio de **30 dias**. Nesse caso, ofereceremos exportação de dados em formato CSV.
 
 ---
 
