@@ -17,7 +17,7 @@ RankForge é um aplicativo móvel de **controle de progressão de carga** voltad
 
 O serviço é oferecido por **Bruno Patrocínio** (Pessoa Física), localizado no Brasil.
 
-**Contato**: admin@nextrep.com
+**Contato**: rankforge.app@gmail.com
 
 ---
 
@@ -29,7 +29,7 @@ Para acessar todas as funcionalidades, você precisa criar uma conta com e-mail 
 ### 2.2 Responsabilidade
 - Você é responsável por manter a confidencialidade da sua senha.
 - Toda atividade na sua conta é considerada feita por você.
-- Em caso de uso indevido suspeito, comunique imediatamente em admin@nextrep.com.
+- Em caso de uso indevido suspeito, comunique imediatamente em rankforge.app@gmail.com.
 
 ### 2.3 Modo Convidado
 O RankForge permite uso sem cadastro ("modo convidado"). Nesse modo:
@@ -164,7 +164,7 @@ Fica eleito o **foro da Comarca de domicílio do consumidor**, conforme o Códig
 
 Dúvidas, reclamações ou solicitações relacionadas a estes Termos:
 
-**E-mail**: admin@nextrep.com
+**E-mail**: rankforge.app@gmail.com
 
 ---
 
